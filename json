@@ -1,0 +1,8 @@
+{
+  "name": "مستودعي التجريبي",
+  "description": "مستودع عربي تجريبي لاختبار الإضافات",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/josefliox600/cloudstream-extensions-arabic-tes/builds/plugins.json"
+  ]
+}
