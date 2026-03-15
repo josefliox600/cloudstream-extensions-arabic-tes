@@ -1,0 +1,8 @@
+{
+  "name": "Carny Repo",
+  "description": "Arac Carony provider",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/josefliox600/cloudstream-extensions-arabic-tes/builds/plugins.json"
+  ]
+}
